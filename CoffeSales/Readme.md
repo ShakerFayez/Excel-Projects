@@ -7,7 +7,7 @@ The business questions the stakeholders want addressed are:
 2- What market did we perform best in?
 3- Who are our top customers?
 
-The data is in the form of two sheets files:
+The data is in the form of 3 sheets:
 
 - `orders`
 - `products`
